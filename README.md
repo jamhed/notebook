@@ -1,5 +1,5 @@
-# Dash
+# Notebook
 
-Sample dash containerized application capable of url mounting.
+Sample notebook
 
-Image: `jamhed/dash`.
+Image: `jamhed/notebook`.
